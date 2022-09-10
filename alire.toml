@@ -1,0 +1,7 @@
+name = "chacha20"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Mateus de Lima Oliveira"]
+maintainers = ["Mateus de Lima Oliveira <mateus@ativarsoft.com>"]
+maintainers-logins = ["m4t3uz"]
