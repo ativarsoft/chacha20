@@ -1,5 +1,5 @@
 name = "chacha20"
-description = "Shiny new project"
+description = "ChaCha20 implementation in Ada."
 version = "0.1.0-dev"
 
 authors = ["Mateus de Lima Oliveira"]
